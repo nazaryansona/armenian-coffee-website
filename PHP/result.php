@@ -46,7 +46,7 @@ $conn->query($sql);
 <header class="main-header">
     <div class="logo">☕ Armenian Coffee</div>
     <nav class="nav-menu">
-        <a href="../HTML/index.html">Home</a>
+        <a href="..">Home</a>
         <a href="../HTML/history.html">History</a>
         <a href="../HTML/gallery.html">Gallery</a>
         <a href="../HTML/culture.html">Culture</a>
